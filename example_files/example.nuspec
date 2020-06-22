@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>example</id>
+    <version>0.0.1</version>
+    <authors>Alex Yates</authors>
+    <description>grabs all files, directories and subdirectories</description>
+    <language>en-US</language>
+  </metadata>
+</package>
