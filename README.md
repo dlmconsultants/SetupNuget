@@ -7,5 +7,6 @@ Installing NuGet:
 Create yourself a NuGet package:
 1. Execute .\PACK_THE_NUGET.ps1. Override the version number if you like, and uncomment/ammend the -OutputDirectory if you wish.
 
-Further doicumentation avbailable here:
+Further documentation available here:
+
 https://docs.microsoft.com/en-us/nuget/reference/cli-reference/cli-ref-pack
